@@ -26,8 +26,8 @@ git remote remove origin
 
 ## Resources
 
--[Git Commit Documentaion] (https://git-scm.com/docs/git-commit)
+-[Git Commit Documentaion](https://git-scm.com/docs/git-commit)
 
 ---
 
-[Back to home] (../README.md)
+[Back to home](../README.md)

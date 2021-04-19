@@ -21,8 +21,8 @@ git status
 
 ## Resources 
 
-[Git Status Docs] (https://git-scm.com/docs/git-status)
+[Git Status Docs](https://git-scm.com/docs/git-status)
 
 ---
 
-[Back to home] (../README.md)
+[Back to home](../README.md)

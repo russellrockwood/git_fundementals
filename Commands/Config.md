@@ -13,8 +13,8 @@ For more information, view the [first time git setup] (https://git-scm.com/book/
 
 ## Resources
 
-- [Git Config Documentation] (https://git-scm.com/docs/git-config)
+- [Git Config Documentation](https://git-scm.com/docs/git-config)
 
 ---
 
-[Back to home] (../README.md)
+[Back to home](../README.md)

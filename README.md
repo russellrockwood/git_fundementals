@@ -6,30 +6,30 @@ Here is a growing collection of resources and helpful commands to know when work
 
 ## Git Commands
 
-- [git config] (./Commands/Config.md)
+- [git config](./Commands/Config.md)
 
-- [git init] (./Commands/Init.md)
+- [git init](./Commands/Init.md)
 
-- [git add] (./Commands/Add.md)
+- [git add](./Commands/Add.md)
 
-- [git commit] (./Commands/commit.md)
+- [git commit](./Commands/commit.md)
 
-- [git remote] (./Commands/Remote.md)
+- [git remote](./Commands/Remote.md)
 
-- [git push] (./Commands/Push.md)
+- [git push](./Commands/Push.md)
 
-- [git pull] (./Commands/Pull.md)
+- [git pull](./Commands/Pull.md)
 
-- [git status] (./Commands/Status.md)
+- [git status](./Commands/Status.md)
 
-- [git clone] (./Commands/Clone.md)
+- [git clone](./Commands/Clone.md)
 
 ## External Resources
 
-- [Markdown Cheat Sheet] (https://www.markdownguide.org/cheat-sheet/)
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
-- [git Documentation] (https://git-scm.com/docs)
+- [git Documentation](https://git-scm.com/docs)
 
-- [gitignore Documentation] (https://git-scm.com/docs/gitignore)
+- [gitignore Documentation](https://git-scm.com/docs/gitignore)
 
-- [git Branches] (https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
+- [git Branches](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
